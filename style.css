@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family:'Didact Gothic', sans-serif;
 }
 button {
-    background-color:#8E793E;
+    background-color:#8a6547;
     border-radius: 0.2em;
     border: none;
     font-size: 0.8em;
@@ -127,7 +127,7 @@ header{
 
 .left{
  grid-area: left;
- color: blue;
+ color: rgb(34, 215, 18);
  background-color: aqua;
 }
 
@@ -170,7 +170,7 @@ header{
 .left, .right{
     padding: 1em;
     border: 2px solid transparent;
-    background: #54545459;
+    background: #180f0f59;
     border-radius: 2px;
     backdrop-filter: blur(0.4em);
  }
@@ -190,7 +190,7 @@ header{
 
  .left-text-xlarge{
     font-size: 1.4rem;
-    color:#AD974F;
+    color:#e1d9db;
     font-weight: 700;
  }
 
@@ -205,7 +205,7 @@ header{
  .form-login input{
     border: none;
     background: transparent;
-    border-bottom: 1px solid #ffffff;
+    border-bottom: 1px solid #7e8455;
  }
 
  .button-login{
@@ -405,7 +405,7 @@ header{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2em;
-    color: #ffffff;
+    color: #e7cdcd;
     position: relative;
     bottom: 0;
     width: 100%;
