@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Didact+Gothic&family=Kreon:wght@700&family=Nunito:wght@300&family=Source+Sans+Pro:ital,wght@0,300;0,700;1,900&family=Space+Mono:wght@400;700&display=swap');
 
-/* font-family: 'Bree Serif', serif;
-font-family: 'Didact Gothic', sans-serif;
-font-family: 'Kreon', serif;
-font-family: 'Nunito', sans-serif;
-font-family: 'Source Sans Pro', sans-serif;
-font-family: 'Space Mono', monospace; */
-
 
 
 * {
@@ -27,7 +20,7 @@ body {
     height: 70vh;
     width: 80%;
     background-color:rgb(151, 146, 146);
-    background: url(/images/Login\ Page\ Mobile\ Prototype.png);
+    background: url(/image/ad-software-trial-buildings.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Nunito', sans-serif;
@@ -283,7 +276,7 @@ header{
     width: 50%;
     box-shadow: 0 0 1.5em rgba(247, 192, 11, 0.25);
     position: relative;
-    /* box-shadow: 0 0 1.5em rgba(0, 0, 0, 0.25); */
+
 
 }
 .history-circle{
@@ -375,7 +368,7 @@ header{
 /* -----------------Lets connect below sample projects--------------- */
 
 .main-subscribe{
-    background: url(/images/Login\ Page\ Mobile\ Prototype.png);
+    background: url(/image/ad-software-trial-buildings.jpg);
     height: 15em;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -398,7 +391,7 @@ header{
 .section-subject-right{
     padding: 1.5em;
     border: 2px solid transparent;
-    background: #54545459;
+    background: #78767659;
     border-radius: 2px;
     backdrop-filter: blur(0.4em);
     grid-area:  right;
@@ -408,7 +401,7 @@ header{
 }
 /* -----------------Footer below lets connect---------------------------- */
 .main-footer {
-    background-color: #333;
+    background-color: #272525;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2em;
@@ -442,7 +435,7 @@ header{
     height: 100%;
     width: 80vw;
     background-color:rgb(151, 146, 146);
-    background: url(/images/Login\ Page\ Mobile\ Prototype.png);
+    background: url(/image/ad-software-trial-buildings.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Nunito', sans-serif;
@@ -603,7 +596,7 @@ header{
 }
 
 .overlay {
-	background: url("/images/RoofHomeCircle.jpg");
+	background: url("/image/Kunshan_4-e1573663563203.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
