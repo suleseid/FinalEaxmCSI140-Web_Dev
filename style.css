@@ -848,12 +848,12 @@ header{
     }
        /* PRODUCTS PAGE */
        .img-bottom{
-        position: relative;
+        position:relative;
     }
     .img-top{
         max-width: 40%;
         position: absolute;
-        top: 18em;
+        top: 22em;
         left: 17em;
     }
 
@@ -896,7 +896,7 @@ header{
     .img-top{
         max-width: 25%;
         position: absolute;
-        top: 22em;
+        top: 18em;
         left: 12em;
     }
 
